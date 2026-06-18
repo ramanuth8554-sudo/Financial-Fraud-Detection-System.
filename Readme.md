@@ -15,6 +15,9 @@ Based on thorough Exploratory Data Analysis (EDA), fraudulent behaviors are heav
 - **Optimized Classifiers:** Trained using an optimized `LogisticRegression` pipeline capable of managing high-volume data.
 - **Interactive UI:** A functional web interface powered by **Streamlit** allowing live entries for instant prediction deployment.
 
+## 📊 Dataset 
+- **Dataset Source:** You can access and download the raw data directly from Kaggle: [Kaggle Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset)
+
 ## 📊 Model Architecture & Performance
 The pipeline components and evaluation metrics consist of:
 - **Feature Engineering:** Automated numerical scaling and string categorical mapping.
